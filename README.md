@@ -1,6 +1,6 @@
 # Golabi2022-website
 
-Source code of the official website of Golabi 2022
+Source code of the official website of Golabi 2022.
 
 # Introduction
 This year's event was held during a month at the Sharif University of Technology.
