@@ -1,4 +1,4 @@
-# Golabi2022-website
+# Golabi2022 Website
 
 Source code of the official website of Golabi 2022.
 
